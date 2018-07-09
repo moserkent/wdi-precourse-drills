@@ -1,0 +1,1 @@
+This is the initial cozmic text file.  I had to create it because the repo did not exist in gschool.
